@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rmalempa
+ *
+ */
+module IndividualAssignment {
+}
